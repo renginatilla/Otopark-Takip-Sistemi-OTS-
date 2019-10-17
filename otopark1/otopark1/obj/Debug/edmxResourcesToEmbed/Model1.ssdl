@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="OtoparkModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Admin">
+    <Key>
+      <PropertyRef Name="LoginID" />
+    </Key>
+    <Property Name="LoginID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="KullaniciAdi" Type="nchar" MaxLength="50" />
+    <Property Name="KullaniciSifre" Type="nchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Arac">
+    <Key>
+      <PropertyRef Name="AracID" />
+    </Key>
+    <Property Name="AracID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="AracPlaka" Type="nvarchar" MaxLength="50" />
+    <Property Name="AracMarka" Type="nvarchar" MaxLength="50" />
+    <Property Name="AracModel" Type="nvarchar" MaxLength="50" />
+    <Property Name="AracRenk" Type="nchar" MaxLength="10" />
+    <Property Name="MusteriID" Type="int" Nullable="false" />
+    <Property Name="AracTipi" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="AracOtopark">
+    <Key>
+      <PropertyRef Name="AracOtoparkID" />
+    </Key>
+    <Property Name="AracOtoparkID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="AracID" Type="int" Nullable="false" />
+    <Property Name="OtoparkID" Type="int" Nullable="false" />
+    <Property Name="GirisSaati" Type="datetime" />
+    <Property Name="CikisSaati" Type="datetime" />
+  </EntityType>
+  <EntityType Name="Musteri">
+    <Key>
+      <PropertyRef Name="MusteriID" />
+    </Key>
+    <Property Name="MusteriID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="MusteriAd" Type="nvarchar" MaxLength="50" />
+    <Property Name="MusteriSoyad" Type="nvarchar" MaxLength="50" />
+    <Property Name="MusteriTel" Type="nchar" MaxLength="50" />
+    <Property Name="MusteriKayitTarihi" Type="datetime" />
+    <Property Name="MusteriMail" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Odeme">
+    <Key>
+      <PropertyRef Name="OdemeID" />
+    </Key>
+    <Property Name="OdemeID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="OtoparkID" Type="int" />
+    <Property Name="Odeme" Type="int" />
+    <Property Name="Tarih" Type="datetime" />
+  </EntityType>
+  <EntityType Name="Otopark">
+    <Key>
+      <PropertyRef Name="OtoparkID" />
+    </Key>
+    <Property Name="OtoparkID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Kat" Type="int" />
+    <Property Name="Kapasite" Type="int" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="Tarife">
+    <Key>
+      <PropertyRef Name="AracTipi" />
+    </Key>
+    <Property Name="AracTipi" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Tip" Type="nvarchar" MaxLength="50" />
+    <Property Name="Fiyat" Type="int" />
+    <Property Name="TarifeTipi" Type="int" />
+  </EntityType>
+  <Association Name="FK_Arac_Musteri">
+    <End Role="Musteri" Type="Self.Musteri" Multiplicity="1" />
+    <End Role="Arac" Type="Self.Arac" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Musteri">
+        <PropertyRef Name="MusteriID" />
+      </Principal>
+      <Dependent Role="Arac">
+        <PropertyRef Name="MusteriID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Arac_Tarife">
+    <End Role="Tarife" Type="Self.Tarife" Multiplicity="1" />
+    <End Role="Arac" Type="Self.Arac" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Tarife">
+        <PropertyRef Name="AracTipi" />
+      </Principal>
+      <Dependent Role="Arac">
+        <PropertyRef Name="AracTipi" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_AracOtopark_Arac">
+    <End Role="Arac" Type="Self.Arac" Multiplicity="1" />
+    <End Role="AracOtopark" Type="Self.AracOtopark" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Arac">
+        <PropertyRef Name="AracID" />
+      </Principal>
+      <Dependent Role="AracOtopark">
+        <PropertyRef Name="AracID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_AracOtopark_Otopark">
+    <End Role="Otopark" Type="Self.Otopark" Multiplicity="1" />
+    <End Role="AracOtopark" Type="Self.AracOtopark" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Otopark">
+        <PropertyRef Name="OtoparkID" />
+      </Principal>
+      <Dependent Role="AracOtopark">
+        <PropertyRef Name="OtoparkID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Odeme_AracOtopark">
+    <End Role="AracOtopark" Type="Self.AracOtopark" Multiplicity="0..1" />
+    <End Role="Odeme" Type="Self.Odeme" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="AracOtopark">
+        <PropertyRef Name="AracOtoparkID" />
+      </Principal>
+      <Dependent Role="Odeme">
+        <PropertyRef Name="OtoparkID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="OtoparkModelStoreContainer">
+    <EntitySet Name="Admin" EntityType="Self.Admin" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Arac" EntityType="Self.Arac" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="AracOtopark" EntityType="Self.AracOtopark" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Musteri" EntityType="Self.Musteri" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Odeme" EntityType="Self.Odeme" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Otopark" EntityType="Self.Otopark" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Tarife" EntityType="Self.Tarife" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Arac_Musteri" Association="Self.FK_Arac_Musteri">
+      <End Role="Musteri" EntitySet="Musteri" />
+      <End Role="Arac" EntitySet="Arac" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Arac_Tarife" Association="Self.FK_Arac_Tarife">
+      <End Role="Tarife" EntitySet="Tarife" />
+      <End Role="Arac" EntitySet="Arac" />
+    </AssociationSet>
+    <AssociationSet Name="FK_AracOtopark_Arac" Association="Self.FK_AracOtopark_Arac">
+      <End Role="Arac" EntitySet="Arac" />
+      <End Role="AracOtopark" EntitySet="AracOtopark" />
+    </AssociationSet>
+    <AssociationSet Name="FK_AracOtopark_Otopark" Association="Self.FK_AracOtopark_Otopark">
+      <End Role="Otopark" EntitySet="Otopark" />
+      <End Role="AracOtopark" EntitySet="AracOtopark" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Odeme_AracOtopark" Association="Self.FK_Odeme_AracOtopark">
+      <End Role="AracOtopark" EntitySet="AracOtopark" />
+      <End Role="Odeme" EntitySet="Odeme" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

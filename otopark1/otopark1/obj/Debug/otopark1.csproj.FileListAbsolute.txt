@@ -1,0 +1,219 @@
+C:\Users\Section1\Desktop\otopark1\otopark1\bin\Debug\otopark1.exe.config
+C:\Users\Section1\Desktop\otopark1\otopark1\bin\Debug\otopark1.exe
+C:\Users\Section1\Desktop\otopark1\otopark1\bin\Debug\otopark1.pdb
+C:\Users\Section1\Desktop\otopark1\otopark1\bin\Debug\EntityFramework.dll
+C:\Users\Section1\Desktop\otopark1\otopark1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Section1\Desktop\otopark1\otopark1\bin\Debug\EntityFramework.xml
+C:\Users\Section1\Desktop\otopark1\otopark1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Section1\Desktop\otopark1\otopark1\obj\Debug\otopark1.csprojAssemblyReference.cache
+C:\Users\Section1\Desktop\otopark1\otopark1\obj\Debug\otopark1.Properties.Resources.resources
+C:\Users\Section1\Desktop\otopark1\otopark1\obj\Debug\otopark1.Form1.resources
+C:\Users\Section1\Desktop\otopark1\otopark1\obj\Debug\otopark1.csproj.GenerateResource.cache
+C:\Users\Section1\Desktop\otopark1\otopark1\obj\Debug\otopark1.csproj.CoreCompileInputs.cache
+C:\Users\Section1\Desktop\otopark1\otopark1\obj\Debug\otopark1.csproj.CopyComplete
+C:\Users\Section1\Desktop\otopark1\otopark1\obj\Debug\otopark1.exe
+C:\Users\Section1\Desktop\otopark1\otopark1\obj\Debug\otopark1.pdb
+C:\Users\rengin atilla\Desktop\05.09\otopark1\otopark1\bin\Debug\otopark1.exe.config
+C:\Users\rengin atilla\Desktop\05.09\otopark1\otopark1\bin\Debug\otopark1.exe
+C:\Users\rengin atilla\Desktop\05.09\otopark1\otopark1\bin\Debug\otopark1.pdb
+C:\Users\rengin atilla\Desktop\05.09\otopark1\otopark1\bin\Debug\EntityFramework.dll
+C:\Users\rengin atilla\Desktop\05.09\otopark1\otopark1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rengin atilla\Desktop\05.09\otopark1\otopark1\bin\Debug\EntityFramework.xml
+C:\Users\rengin atilla\Desktop\05.09\otopark1\otopark1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rengin atilla\Desktop\05.09\otopark1\otopark1\obj\Debug\otopark1.csprojAssemblyReference.cache
+C:\Users\rengin atilla\Desktop\05.09\otopark1\otopark1\obj\Debug\otopark1.Properties.Resources.resources
+C:\Users\rengin atilla\Desktop\05.09\otopark1\otopark1\obj\Debug\otopark1.Form1.resources
+C:\Users\rengin atilla\Desktop\05.09\otopark1\otopark1\obj\Debug\otopark1.csproj.GenerateResource.cache
+C:\Users\rengin atilla\Desktop\05.09\otopark1\otopark1\obj\Debug\otopark1.csproj.CoreCompileInputs.cache
+C:\Users\rengin atilla\Desktop\05.09\otopark1\otopark1\obj\Debug\otopark1.csproj.CopyComplete
+C:\Users\rengin atilla\Desktop\05.09\otopark1\otopark1\obj\Debug\otopark1.exe
+C:\Users\rengin atilla\Desktop\05.09\otopark1\otopark1\obj\Debug\otopark1.pdb
+C:\Users\rengin atilla\Desktop\05.09\otopark1\otopark1\obj\Debug\otopark1.UI.Form2.resources
+C:\Users\rengin atilla\Desktop\05.09\otopark1\otopark1\obj\Debug\otopark1.UI.Form3.resources
+C:\Users\rengin atilla\Desktop\05.09\otopark1\otopark1\obj\Debug\otopark1.UI.Form4.resources
+C:\Users\Wissen\Desktop\05.09\otopark1\otopark1\bin\Debug\otopark1.exe.config
+C:\Users\Wissen\Desktop\05.09\otopark1\otopark1\bin\Debug\otopark1.exe
+C:\Users\Wissen\Desktop\05.09\otopark1\otopark1\bin\Debug\otopark1.pdb
+C:\Users\Wissen\Desktop\05.09\otopark1\otopark1\bin\Debug\EntityFramework.dll
+C:\Users\Wissen\Desktop\05.09\otopark1\otopark1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Wissen\Desktop\05.09\otopark1\otopark1\bin\Debug\EntityFramework.xml
+C:\Users\Wissen\Desktop\05.09\otopark1\otopark1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Wissen\Desktop\05.09\otopark1\otopark1\obj\Debug\otopark1.csprojAssemblyReference.cache
+C:\Users\Wissen\Desktop\05.09\otopark1\otopark1\obj\Debug\otopark1.Properties.Resources.resources
+C:\Users\Wissen\Desktop\05.09\otopark1\otopark1\obj\Debug\otopark1.Form1.resources
+C:\Users\Wissen\Desktop\05.09\otopark1\otopark1\obj\Debug\otopark1.UI.Form2.resources
+C:\Users\Wissen\Desktop\05.09\otopark1\otopark1\obj\Debug\otopark1.UI.Form3.resources
+C:\Users\Wissen\Desktop\05.09\otopark1\otopark1\obj\Debug\otopark1.UI.Form4.resources
+C:\Users\Wissen\Desktop\05.09\otopark1\otopark1\obj\Debug\otopark1.csproj.GenerateResource.cache
+C:\Users\Wissen\Desktop\05.09\otopark1\otopark1\obj\Debug\otopark1.csproj.CoreCompileInputs.cache
+C:\Users\Wissen\Desktop\05.09\otopark1\otopark1\obj\Debug\otopark1.csproj.CopyComplete
+C:\Users\Wissen\Desktop\05.09\otopark1\otopark1\obj\Debug\otopark1.exe
+C:\Users\Wissen\Desktop\05.09\otopark1\otopark1\obj\Debug\otopark1.pdb
+C:\Users\Wissen\Desktop\05.09\otopark1\otopark1\obj\Debug\otopark1.UI.Form5.resources
+C:\Users\Wissen\Desktop\05.09\otopark1\otopark1\obj\Debug\otopark1.UI.Form6.resources
+C:\Users\Wissen\Desktop\05.09\otopark1\otopark1\obj\Debug\otopark1.UI.Form7.resources
+C:\Users\rengin atilla\Desktop\06.09\otopark1\otopark1\bin\Debug\otopark1.exe.config
+C:\Users\rengin atilla\Desktop\06.09\otopark1\otopark1\bin\Debug\otopark1.exe
+C:\Users\rengin atilla\Desktop\06.09\otopark1\otopark1\bin\Debug\otopark1.pdb
+C:\Users\rengin atilla\Desktop\06.09\otopark1\otopark1\bin\Debug\EntityFramework.dll
+C:\Users\rengin atilla\Desktop\06.09\otopark1\otopark1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rengin atilla\Desktop\06.09\otopark1\otopark1\bin\Debug\EntityFramework.xml
+C:\Users\rengin atilla\Desktop\06.09\otopark1\otopark1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rengin atilla\Desktop\06.09\otopark1\otopark1\obj\Debug\otopark1.csprojAssemblyReference.cache
+C:\Users\rengin atilla\Desktop\06.09\otopark1\otopark1\obj\Debug\otopark1.Properties.Resources.resources
+C:\Users\rengin atilla\Desktop\06.09\otopark1\otopark1\obj\Debug\otopark1.Form1.resources
+C:\Users\rengin atilla\Desktop\06.09\otopark1\otopark1\obj\Debug\otopark1.UI.Form2.resources
+C:\Users\rengin atilla\Desktop\06.09\otopark1\otopark1\obj\Debug\otopark1.UI.Form3.resources
+C:\Users\rengin atilla\Desktop\06.09\otopark1\otopark1\obj\Debug\otopark1.UI.Form4.resources
+C:\Users\rengin atilla\Desktop\06.09\otopark1\otopark1\obj\Debug\otopark1.UI.Form5.resources
+C:\Users\rengin atilla\Desktop\06.09\otopark1\otopark1\obj\Debug\otopark1.UI.Form6.resources
+C:\Users\rengin atilla\Desktop\06.09\otopark1\otopark1\obj\Debug\otopark1.UI.Form7.resources
+C:\Users\rengin atilla\Desktop\06.09\otopark1\otopark1\obj\Debug\otopark1.csproj.GenerateResource.cache
+C:\Users\rengin atilla\Desktop\06.09\otopark1\otopark1\obj\Debug\otopark1.csproj.CoreCompileInputs.cache
+C:\Users\rengin atilla\Desktop\06.09\otopark1\otopark1\obj\Debug\otopark1.csproj.CopyComplete
+C:\Users\rengin atilla\Desktop\06.09\otopark1\otopark1\obj\Debug\otopark1.exe
+C:\Users\rengin atilla\Desktop\06.09\otopark1\otopark1\obj\Debug\otopark1.pdb
+C:\Users\rengin atilla\Desktop\06.09\otopark1\otopark1\obj\Debug\otopark1.UI.Form8.resources
+C:\Users\rengin atilla\Desktop\06.09\otopark1\otopark1\obj\Debug\otopark1.UI.Form10.resources
+C:\Users\rengin atilla\Desktop\06.09\otopark1\otopark1\obj\Debug\otopark1.UI.Form9.resources
+C:\Users\rengin atilla\Desktop\06.09\otopark1\otopark1\obj\Debug\otopark1.UI.Form11.resources
+C:\Users\rengin atilla\Desktop\06.09\otopark1\otopark1\obj\Debug\otopark1.UI.Form12.resources
+C:\Users\rengin atilla\Desktop\06.09\otopark1\otopark1\obj\Debug\otopark1.UI.Form13.resources
+C:\Users\Wissen\Desktop\06.09\otopark1\otopark1\bin\Debug\otopark1.exe.config
+C:\Users\Wissen\Desktop\06.09\otopark1\otopark1\bin\Debug\otopark1.exe
+C:\Users\Wissen\Desktop\06.09\otopark1\otopark1\bin\Debug\otopark1.pdb
+C:\Users\Wissen\Desktop\06.09\otopark1\otopark1\bin\Debug\EntityFramework.dll
+C:\Users\Wissen\Desktop\06.09\otopark1\otopark1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Wissen\Desktop\06.09\otopark1\otopark1\bin\Debug\EntityFramework.xml
+C:\Users\Wissen\Desktop\06.09\otopark1\otopark1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Wissen\Desktop\06.09\otopark1\otopark1\obj\Debug\otopark1.csprojAssemblyReference.cache
+C:\Users\Wissen\Desktop\06.09\otopark1\otopark1\obj\Debug\otopark1.Properties.Resources.resources
+C:\Users\Wissen\Desktop\06.09\otopark1\otopark1\obj\Debug\otopark1.Form1.resources
+C:\Users\Wissen\Desktop\06.09\otopark1\otopark1\obj\Debug\otopark1.UI.Form10.resources
+C:\Users\Wissen\Desktop\06.09\otopark1\otopark1\obj\Debug\otopark1.UI.Form11.resources
+C:\Users\Wissen\Desktop\06.09\otopark1\otopark1\obj\Debug\otopark1.UI.Form12.resources
+C:\Users\Wissen\Desktop\06.09\otopark1\otopark1\obj\Debug\otopark1.UI.Form13.resources
+C:\Users\Wissen\Desktop\06.09\otopark1\otopark1\obj\Debug\otopark1.UI.Form2.resources
+C:\Users\Wissen\Desktop\06.09\otopark1\otopark1\obj\Debug\otopark1.UI.Form3.resources
+C:\Users\Wissen\Desktop\06.09\otopark1\otopark1\obj\Debug\otopark1.UI.Form4.resources
+C:\Users\Wissen\Desktop\06.09\otopark1\otopark1\obj\Debug\otopark1.UI.Form5.resources
+C:\Users\Wissen\Desktop\06.09\otopark1\otopark1\obj\Debug\otopark1.UI.Form6.resources
+C:\Users\Wissen\Desktop\06.09\otopark1\otopark1\obj\Debug\otopark1.UI.Form7.resources
+C:\Users\Wissen\Desktop\06.09\otopark1\otopark1\obj\Debug\otopark1.UI.Form8.resources
+C:\Users\Wissen\Desktop\06.09\otopark1\otopark1\obj\Debug\otopark1.UI.Form9.resources
+C:\Users\Wissen\Desktop\06.09\otopark1\otopark1\obj\Debug\otopark1.csproj.GenerateResource.cache
+C:\Users\Wissen\Desktop\06.09\otopark1\otopark1\obj\Debug\otopark1.csproj.CoreCompileInputs.cache
+C:\Users\Wissen\Desktop\06.09\otopark1\otopark1\obj\Debug\otopark1.csproj.CopyComplete
+C:\Users\Wissen\Desktop\06.09\otopark1\otopark1\obj\Debug\otopark1.exe
+C:\Users\Wissen\Desktop\06.09\otopark1\otopark1\obj\Debug\otopark1.pdb
+C:\Users\Wissen\Desktop\06.09\otopark1\otopark1\obj\Debug\otopark1.UI.Form14.resources
+C:\Users\rengin atilla\Desktop\10.06\otopark1\otopark1\bin\Debug\otopark1.exe.config
+C:\Users\rengin atilla\Desktop\10.06\otopark1\otopark1\bin\Debug\otopark1.exe
+C:\Users\rengin atilla\Desktop\10.06\otopark1\otopark1\bin\Debug\otopark1.pdb
+C:\Users\rengin atilla\Desktop\10.06\otopark1\otopark1\bin\Debug\EntityFramework.dll
+C:\Users\rengin atilla\Desktop\10.06\otopark1\otopark1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rengin atilla\Desktop\10.06\otopark1\otopark1\bin\Debug\EntityFramework.xml
+C:\Users\rengin atilla\Desktop\10.06\otopark1\otopark1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rengin atilla\Desktop\10.06\otopark1\otopark1\obj\Debug\otopark1.csprojAssemblyReference.cache
+C:\Users\rengin atilla\Desktop\10.06\otopark1\otopark1\obj\Debug\otopark1.Properties.Resources.resources
+C:\Users\rengin atilla\Desktop\10.06\otopark1\otopark1\obj\Debug\otopark1.Form1.resources
+C:\Users\rengin atilla\Desktop\10.06\otopark1\otopark1\obj\Debug\otopark1.UI.Form10.resources
+C:\Users\rengin atilla\Desktop\10.06\otopark1\otopark1\obj\Debug\otopark1.UI.Form11.resources
+C:\Users\rengin atilla\Desktop\10.06\otopark1\otopark1\obj\Debug\otopark1.UI.Form12.resources
+C:\Users\rengin atilla\Desktop\10.06\otopark1\otopark1\obj\Debug\otopark1.UI.Form13.resources
+C:\Users\rengin atilla\Desktop\10.06\otopark1\otopark1\obj\Debug\otopark1.UI.Form14.resources
+C:\Users\rengin atilla\Desktop\10.06\otopark1\otopark1\obj\Debug\otopark1.UI.Form2.resources
+C:\Users\rengin atilla\Desktop\10.06\otopark1\otopark1\obj\Debug\otopark1.UI.Form3.resources
+C:\Users\rengin atilla\Desktop\10.06\otopark1\otopark1\obj\Debug\otopark1.UI.Form4.resources
+C:\Users\rengin atilla\Desktop\10.06\otopark1\otopark1\obj\Debug\otopark1.UI.Form5.resources
+C:\Users\rengin atilla\Desktop\10.06\otopark1\otopark1\obj\Debug\otopark1.UI.Form6.resources
+C:\Users\rengin atilla\Desktop\10.06\otopark1\otopark1\obj\Debug\otopark1.UI.Form7.resources
+C:\Users\rengin atilla\Desktop\10.06\otopark1\otopark1\obj\Debug\otopark1.UI.Form8.resources
+C:\Users\rengin atilla\Desktop\10.06\otopark1\otopark1\obj\Debug\otopark1.UI.Form9.resources
+C:\Users\rengin atilla\Desktop\10.06\otopark1\otopark1\obj\Debug\otopark1.csproj.GenerateResource.cache
+C:\Users\rengin atilla\Desktop\10.06\otopark1\otopark1\obj\Debug\otopark1.csproj.CoreCompileInputs.cache
+C:\Users\rengin atilla\Desktop\10.06\otopark1\otopark1\obj\Debug\otopark1.csproj.CopyComplete
+C:\Users\rengin atilla\Desktop\10.06\otopark1\otopark1\obj\Debug\otopark1.exe
+C:\Users\rengin atilla\Desktop\10.06\otopark1\otopark1\obj\Debug\otopark1.pdb
+C:\Users\Wissen\Desktop\10.06\otopark1\otopark1\bin\Debug\otopark1.exe.config
+C:\Users\Wissen\Desktop\10.06\otopark1\otopark1\bin\Debug\otopark1.exe
+C:\Users\Wissen\Desktop\10.06\otopark1\otopark1\bin\Debug\otopark1.pdb
+C:\Users\Wissen\Desktop\10.06\otopark1\otopark1\bin\Debug\EntityFramework.dll
+C:\Users\Wissen\Desktop\10.06\otopark1\otopark1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Wissen\Desktop\10.06\otopark1\otopark1\bin\Debug\EntityFramework.xml
+C:\Users\Wissen\Desktop\10.06\otopark1\otopark1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Wissen\Desktop\10.06\otopark1\otopark1\obj\Debug\otopark1.csprojAssemblyReference.cache
+C:\Users\Wissen\Desktop\10.06\otopark1\otopark1\obj\Debug\otopark1.Properties.Resources.resources
+C:\Users\Wissen\Desktop\10.06\otopark1\otopark1\obj\Debug\otopark1.Form1.resources
+C:\Users\Wissen\Desktop\10.06\otopark1\otopark1\obj\Debug\otopark1.UI.Form10.resources
+C:\Users\Wissen\Desktop\10.06\otopark1\otopark1\obj\Debug\otopark1.UI.Form11.resources
+C:\Users\Wissen\Desktop\10.06\otopark1\otopark1\obj\Debug\otopark1.UI.Form12.resources
+C:\Users\Wissen\Desktop\10.06\otopark1\otopark1\obj\Debug\otopark1.UI.Form13.resources
+C:\Users\Wissen\Desktop\10.06\otopark1\otopark1\obj\Debug\otopark1.UI.Form14.resources
+C:\Users\Wissen\Desktop\10.06\otopark1\otopark1\obj\Debug\otopark1.UI.Form2.resources
+C:\Users\Wissen\Desktop\10.06\otopark1\otopark1\obj\Debug\otopark1.UI.Form3.resources
+C:\Users\Wissen\Desktop\10.06\otopark1\otopark1\obj\Debug\otopark1.UI.Form4.resources
+C:\Users\Wissen\Desktop\10.06\otopark1\otopark1\obj\Debug\otopark1.UI.Form5.resources
+C:\Users\Wissen\Desktop\10.06\otopark1\otopark1\obj\Debug\otopark1.UI.Form6.resources
+C:\Users\Wissen\Desktop\10.06\otopark1\otopark1\obj\Debug\otopark1.UI.Form7.resources
+C:\Users\Wissen\Desktop\10.06\otopark1\otopark1\obj\Debug\otopark1.UI.Form8.resources
+C:\Users\Wissen\Desktop\10.06\otopark1\otopark1\obj\Debug\otopark1.UI.Form9.resources
+C:\Users\Wissen\Desktop\10.06\otopark1\otopark1\obj\Debug\otopark1.csproj.GenerateResource.cache
+C:\Users\Wissen\Desktop\10.06\otopark1\otopark1\obj\Debug\otopark1.csproj.CoreCompileInputs.cache
+C:\Users\Wissen\Desktop\10.06\otopark1\otopark1\obj\Debug\otopark1.csproj.CopyComplete
+C:\Users\Wissen\Desktop\10.06\otopark1\otopark1\obj\Debug\otopark1.exe
+C:\Users\Wissen\Desktop\10.06\otopark1\otopark1\obj\Debug\otopark1.pdb
+C:\Users\Wissen\Desktop\RenginAtilla\otopark1\otopark1\bin\Debug\otopark1.exe.config
+C:\Users\Wissen\Desktop\RenginAtilla\otopark1\otopark1\bin\Debug\otopark1.exe
+C:\Users\Wissen\Desktop\RenginAtilla\otopark1\otopark1\bin\Debug\otopark1.pdb
+C:\Users\Wissen\Desktop\RenginAtilla\otopark1\otopark1\bin\Debug\EntityFramework.dll
+C:\Users\Wissen\Desktop\RenginAtilla\otopark1\otopark1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Wissen\Desktop\RenginAtilla\otopark1\otopark1\bin\Debug\EntityFramework.xml
+C:\Users\Wissen\Desktop\RenginAtilla\otopark1\otopark1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Wissen\Desktop\RenginAtilla\otopark1\otopark1\obj\Debug\otopark1.csprojAssemblyReference.cache
+C:\Users\Wissen\Desktop\RenginAtilla\otopark1\otopark1\obj\Debug\otopark1.Properties.Resources.resources
+C:\Users\Wissen\Desktop\RenginAtilla\otopark1\otopark1\obj\Debug\otopark1.Form1.resources
+C:\Users\Wissen\Desktop\RenginAtilla\otopark1\otopark1\obj\Debug\otopark1.UI.Form10.resources
+C:\Users\Wissen\Desktop\RenginAtilla\otopark1\otopark1\obj\Debug\otopark1.UI.Form12.resources
+C:\Users\Wissen\Desktop\RenginAtilla\otopark1\otopark1\obj\Debug\otopark1.UI.Form13.resources
+C:\Users\Wissen\Desktop\RenginAtilla\otopark1\otopark1\obj\Debug\otopark1.UI.Form14.resources
+C:\Users\Wissen\Desktop\RenginAtilla\otopark1\otopark1\obj\Debug\otopark1.UI.Form2.resources
+C:\Users\Wissen\Desktop\RenginAtilla\otopark1\otopark1\obj\Debug\otopark1.UI.Form3.resources
+C:\Users\Wissen\Desktop\RenginAtilla\otopark1\otopark1\obj\Debug\otopark1.UI.Form4.resources
+C:\Users\Wissen\Desktop\RenginAtilla\otopark1\otopark1\obj\Debug\otopark1.UI.Form5.resources
+C:\Users\Wissen\Desktop\RenginAtilla\otopark1\otopark1\obj\Debug\otopark1.UI.Form6.resources
+C:\Users\Wissen\Desktop\RenginAtilla\otopark1\otopark1\obj\Debug\otopark1.UI.Form7.resources
+C:\Users\Wissen\Desktop\RenginAtilla\otopark1\otopark1\obj\Debug\otopark1.UI.Form8.resources
+C:\Users\Wissen\Desktop\RenginAtilla\otopark1\otopark1\obj\Debug\otopark1.UI.Form9.resources
+C:\Users\Wissen\Desktop\RenginAtilla\otopark1\otopark1\obj\Debug\otopark1.csproj.GenerateResource.cache
+C:\Users\Wissen\Desktop\RenginAtilla\otopark1\otopark1\obj\Debug\otopark1.csproj.CoreCompileInputs.cache
+C:\Users\Wissen\Desktop\RenginAtilla\otopark1\otopark1\obj\Debug\otopark1.csproj.CopyComplete
+C:\Users\Wissen\Desktop\RenginAtilla\otopark1\otopark1\obj\Debug\otopark1.exe
+C:\Users\Wissen\Desktop\RenginAtilla\otopark1\otopark1\obj\Debug\otopark1.pdb
+C:\Users\rengin atilla\Desktop\RenginAtilla\RenginAtilla\otopark1\otopark1\bin\Debug\otopark1.exe.config
+C:\Users\rengin atilla\Desktop\RenginAtilla\RenginAtilla\otopark1\otopark1\bin\Debug\otopark1.exe
+C:\Users\rengin atilla\Desktop\RenginAtilla\RenginAtilla\otopark1\otopark1\bin\Debug\otopark1.pdb
+C:\Users\rengin atilla\Desktop\RenginAtilla\RenginAtilla\otopark1\otopark1\bin\Debug\EntityFramework.dll
+C:\Users\rengin atilla\Desktop\RenginAtilla\RenginAtilla\otopark1\otopark1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rengin atilla\Desktop\RenginAtilla\RenginAtilla\otopark1\otopark1\bin\Debug\EntityFramework.xml
+C:\Users\rengin atilla\Desktop\RenginAtilla\RenginAtilla\otopark1\otopark1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rengin atilla\Desktop\RenginAtilla\RenginAtilla\otopark1\otopark1\obj\Debug\otopark1.csprojAssemblyReference.cache
+C:\Users\rengin atilla\Desktop\RenginAtilla\RenginAtilla\otopark1\otopark1\obj\Debug\otopark1.Properties.Resources.resources
+C:\Users\rengin atilla\Desktop\RenginAtilla\RenginAtilla\otopark1\otopark1\obj\Debug\otopark1.Form1.resources
+C:\Users\rengin atilla\Desktop\RenginAtilla\RenginAtilla\otopark1\otopark1\obj\Debug\otopark1.UI.Form10.resources
+C:\Users\rengin atilla\Desktop\RenginAtilla\RenginAtilla\otopark1\otopark1\obj\Debug\otopark1.UI.Form12.resources
+C:\Users\rengin atilla\Desktop\RenginAtilla\RenginAtilla\otopark1\otopark1\obj\Debug\otopark1.UI.Form13.resources
+C:\Users\rengin atilla\Desktop\RenginAtilla\RenginAtilla\otopark1\otopark1\obj\Debug\otopark1.UI.Form14.resources
+C:\Users\rengin atilla\Desktop\RenginAtilla\RenginAtilla\otopark1\otopark1\obj\Debug\otopark1.UI.Form2.resources
+C:\Users\rengin atilla\Desktop\RenginAtilla\RenginAtilla\otopark1\otopark1\obj\Debug\otopark1.UI.Form3.resources
+C:\Users\rengin atilla\Desktop\RenginAtilla\RenginAtilla\otopark1\otopark1\obj\Debug\otopark1.UI.Form4.resources
+C:\Users\rengin atilla\Desktop\RenginAtilla\RenginAtilla\otopark1\otopark1\obj\Debug\otopark1.UI.Form5.resources
+C:\Users\rengin atilla\Desktop\RenginAtilla\RenginAtilla\otopark1\otopark1\obj\Debug\otopark1.UI.Form6.resources
+C:\Users\rengin atilla\Desktop\RenginAtilla\RenginAtilla\otopark1\otopark1\obj\Debug\otopark1.UI.Form7.resources
+C:\Users\rengin atilla\Desktop\RenginAtilla\RenginAtilla\otopark1\otopark1\obj\Debug\otopark1.UI.Form8.resources
+C:\Users\rengin atilla\Desktop\RenginAtilla\RenginAtilla\otopark1\otopark1\obj\Debug\otopark1.UI.Form9.resources
+C:\Users\rengin atilla\Desktop\RenginAtilla\RenginAtilla\otopark1\otopark1\obj\Debug\otopark1.csproj.GenerateResource.cache
+C:\Users\rengin atilla\Desktop\RenginAtilla\RenginAtilla\otopark1\otopark1\obj\Debug\otopark1.csproj.CoreCompileInputs.cache
+C:\Users\rengin atilla\Desktop\RenginAtilla\RenginAtilla\otopark1\otopark1\obj\Debug\otopark1.csproj.CopyComplete
+C:\Users\rengin atilla\Desktop\RenginAtilla\RenginAtilla\otopark1\otopark1\obj\Debug\otopark1.exe
+C:\Users\rengin atilla\Desktop\RenginAtilla\RenginAtilla\otopark1\otopark1\obj\Debug\otopark1.pdb
